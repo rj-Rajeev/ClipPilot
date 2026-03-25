@@ -107,7 +107,7 @@ export async function POST(req) {
       requestBody: {
         snippet: {
           title: title || "Auto Upload",
-          description: "Uploaded via system",
+          description: "Viral Videos",
         },
         status: {
           privacyStatus: "private",
